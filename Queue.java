@@ -12,4 +12,8 @@ public class Queue<K> {
     public ParentNode showLatestNodeOfQueue() {
         return customQueue.head;
     }
+
+    public ParentNode showFirstNodeOfQueue() {
+        return customQueue.tail;
+    }
 }
