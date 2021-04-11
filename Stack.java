@@ -1,3 +1,4 @@
+
 public class Stack {
     private CustomLinkedList customStack = new CustomLinkedList();
 
